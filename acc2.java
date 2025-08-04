@@ -1,0 +1,29 @@
+import java.io.*;
+
+class acc2 {
+   
+     int a[]=new int[5];
+    void abc()
+        {
+          
+    for(int i=0;i<=3;i++)
+a[i]=i+5;
+a[4]=1;
+for(int i=0;i<=4;i++)
+System.out.println(a[i]);
+        }
+    
+    
+
+    
+}
+public class array1 {
+    public static void main(String[] args) {
+acc2 b1=new acc2();
+
+b1.abc();
+
+
+
+}
+}
