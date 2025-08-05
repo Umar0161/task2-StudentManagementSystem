@@ -1,2 +1,3 @@
-A simple menu driven student record management system arrayList,methods and conditional statements.
+A simple menu driven program of student record management system arrayList,methods and conditional statements.
+
 
